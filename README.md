@@ -2,17 +2,13 @@
 
 ## Technologies Used
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70" height="45"/>
-  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="45" height="45"/>
-</p>
-
----
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-orange?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4c72b0?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-f7931e?style=flat-square&logo=scikitlearn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Visualization-3f4f75?style=flat-square&logo=plotly)
 
 ## Overview
 This repository contains an exploratory data analysis and dimensionality reduction study using Principal Component Analysis (PCA) on the Wine dataset available from Scikit-learn.
